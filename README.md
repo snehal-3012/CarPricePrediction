@@ -30,7 +30,7 @@ The dataset used in this project is `car_features_and_msrm.csv`, which includes 
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/CarPricePrediction.git
+git clone https://github.com/snehal-3012/CarPricePrediction.git
 cd CarPricePrediction
 pip install -r requirements.txt
 ```
